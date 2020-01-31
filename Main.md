@@ -38,7 +38,7 @@
 > touch filename            &emsp; # 创建某文件到工作目录  
 > git add filename          &emsp; # 添加该文件到暂存区  
 > git commit -m  'note'     &emsp; # 添加该文件到仓库，注释为'note'  
-
+> git push origin master    &emsp; # 将修改后的仓库上传到github  
 ---
 
 （2）用于删除：
